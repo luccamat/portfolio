@@ -959,7 +959,7 @@ img{
         grid-template-columns: .25fr 3fr;
     }
     .home__img{
-        width: 10px;
+        width: 200px;
     }
 
     .skills__title{

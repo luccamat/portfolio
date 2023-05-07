@@ -942,7 +942,7 @@ img{
 
 /*====== MEDIA QUERIES =======*/
 /* tela menor */
-@media screen and (max-width: 350px){
+@media screen and (max-width: 470px){
     .container{
         margin-left: var(--mb-1);
         margin-right: var(--mb-1);
@@ -959,7 +959,7 @@ img{
         grid-template-columns: .25fr 3fr;
     }
     .home__img{
-        width: 180px;
+        width: 10px;
     }
 
     .skills__title{
